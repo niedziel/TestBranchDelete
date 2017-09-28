@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Table1" language="en" table="x_58872_can_i_dele_table1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Table1</label>
+            <language>en</language>
+            <name>x_58872_can_i_dele_table1</name>
+            <plural>Table1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 16:27:29</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>2d3c9a280f2103000d030dbce1050e37</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table1</sys_name>
+            <sys_package display_value="Can I Delete Branches" source="x_58872_can_i_dele">b3fb52640f2103000d030dbce1050ec1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Can I Delete Branches">b3fb52640f2103000d030dbce1050ec1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_can_i_dele_table1__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 16:27:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
