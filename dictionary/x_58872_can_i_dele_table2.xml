@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Table2" max_length="40" name="x_58872_can_i_dele_table2" type="collection"/>
+</database>
